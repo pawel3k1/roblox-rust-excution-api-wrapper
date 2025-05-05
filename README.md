@@ -1,5 +1,7 @@
 # Usage
 
+## AI Made Wiki alternatively: https://deepwiki.com/pawel3k1/roblox-rust-excution-api-wrapper
+
 ## Building the tool
 
 ````
